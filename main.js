@@ -1,7 +1,7 @@
 
 /** Connect to Moralis server */
-const serverUrl = "https://bgbnoaq8u8pv.usemoralis.com:2053/server";
-const appId = "emh689cheGPiFrhpoO3fmfS6goA71sTeGnsNWToG";
+const serverUrl = "";
+const appId = "";
 Moralis.start({ serverUrl, appId });
 
 /** Add from here down */
